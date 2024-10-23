@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @esyeda
+- 👋 Hi, I’m @eshaal
 - 👀 I’m interested in web development, data analysis, and creating impactful tech solutions.
 - 🌱 I’m currently learning Data Structures as part of my computer science coursework and enhancing my Java skills.
 - 💞️ I’m looking to collaborate on open-source projects related to front-end development, APIs, or data visualization.
