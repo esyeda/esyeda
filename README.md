@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @eshaal
-- 👀 I’m interested in web development, data analysis, and creating impactful tech solutions.
-- 🌱 I’m currently learning Data Structures as part of my computer science coursework and enhancing my Java skills.
-- 💞️ I’m looking to collaborate on open-source projects related to front-end development, APIs, or data visualization.
-- 📫 How to reach me: [eshaal.syeda@richmond.edu]
-- ⚡ Fun fact: I am currently a sophomore in college, majoring in Computer Science.
+### Hi, I’m Eshaal Syeda.
 
-<!---
-esyeda/esyeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in software engineering, cloud infrastructure, and building useful applications. My work spans web development, automation, APIs, and data analysis.
+
+I enjoy figuring out how systems work, solving practical problems, and making software easier to use. I’m always open to learning something new and collaborating on thoughtful projects.
+
+Contact: [eshaal.syeda@richmond.edu](mailto:eshaal.syeda@richmond.edu)
